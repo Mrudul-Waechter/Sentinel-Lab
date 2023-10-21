@@ -23,7 +23,7 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 <br />
 <br />
 
-<ins><B>Created honeypot VM using Azure</ins></B>
+<ins><B>Created honeypot VM in Azure</ins></B>
 <p align="center">
 <img src="https://imgur.com/45F8m7e.png" height="65%" width="65%" alt="Azur Honeypot VM"/>
 </p>
