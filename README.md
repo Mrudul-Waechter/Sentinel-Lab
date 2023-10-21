@@ -18,8 +18,8 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 <h2>Utilities Used</h2>
 
 - <b>ipgeolocation.io:</b> [IP Address to Geolocation API](https://ipgeolocation.io/)
-- 
-- <h2>Created honeypot VM using Azur</h2>
+
+- <h2>Created honeypot VM using Azure</h2>
 <p align="center">
 <img src="https://imgur.com/45F8m7e.png" height="65%" width="65%" alt="Azur Honeypot VM"/>
 </p>
@@ -41,18 +41,74 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 <br />
 
 
- <h2>Connected to Log Analytics Workspace </h2>
+ <h2>Connected to the Azure Log Analytics Workspace </h2>
  
 <p align="center">
-<img src="https://imgur.com/8EM3IGb.png" height="65%" width="65%" alt="Inbound Rule"/>
+<img src="https://imgur.com/8EM3IGb.png" height="65%" width="65%" alt="Azure log analytics workspace"/>
 </p>
 <br />
 <br />
 
-<h2>Turned on data collection for all event through Microsoft Defender</h2>
+<h2>Collecting windows security event through Microsoft Defender</h2>
 
 <p align="center">
-<img src="https://imgur.com/N7BmbhF.png" height="65%" width="65%" alt="Inbound Rule"/>
+<img src="https://imgur.com/N7BmbhF.png" height="65%" width="65%" alt="Microsoft Defender"/>
 </p>
 <br />
 <br />
+
+<h2>Connecting to Microsoft Sentinel-SIEM to log analytic workspace </h2>
+
+<p align="center">
+<img src="https://imgur.com/eQV2DiS.png" height="65%" width="65%" alt="SIEM"/>
+</p>
+<br />
+<br />
+
+<h2>Powershell script running and showing live attacks data </h2>
+
+<p align="center">
+<img src="https://imgur.com/0sM0sDH.png" height="65%" width="65%" alt="Powershell script"/>
+</p>
+<br />
+<br />
+
+
+<h2>KQL query to extract log data</h2>
+
+<p align="center">
+<img src="https://imgur.com/zC0OwUN.png" height="65%" width="65%" alt="KQL query"/>
+</p>
+<br />
+<br />
+
+<h2>Live Brute Force attacks coming from all around the world</h2>
+
+2 Hours after creating the honeypot VM
+<p align="center">
+<img src="https://imgur.com/J0J5mgS.png" height="65%" width="65%" alt="KQL query"/>
+</p>
+<br />
+<br />
+3 Hours after creating the honeypot VM
+<p align="center">
+<img src="https://imgur.com/qp0AnPD.png" height="65%" width="65%" alt="KQL query"/>
+</p>
+<br />
+<br />
+4 Hours after creating the honeypot VM
+<p align="center">
+<img src="https://imgur.com/ox1IsRg.png" height="65%" width="65%" alt="KQL query"/>
+</p>
+<br />
+<br />
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
