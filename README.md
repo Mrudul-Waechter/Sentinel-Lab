@@ -13,8 +13,8 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 </p>
 <h2>Languages Used</h2>
 
-- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
+- <b>PowerShell:</b> [Extract RDP failed logon logs from Windows Event Viewer](https://github.com/Mrudul-Waechter/Sentinel-Lab/blob/main/WindowsSecurityLogExporter.ps1)
 
 <h2>Utilities Used</h2>
 
-- <b>ipgeolocation.io:</b> [IP Address to Geolocation API](https://github.com/Mrudul-Waechter/Sentinel-Lab/blob/main/WindowsSecurityLogExporter.ps1)
+- <b>ipgeolocation.io:</b> [IP Address to Geolocation API](https://ipgeolocation.io/)
