@@ -19,14 +19,18 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 
 - <b>ipgeolocation.io:</b> [IP Address to Geolocation API](https://ipgeolocation.io/)
 
-<h2>Created honeypot VM using Azure</h2>
+<h2>Project Details</h2>
+<br />
+<br />
+
+<ins><B>Created honeypot VM using Azure</ins></B>
 <p align="center">
 <img src="https://imgur.com/45F8m7e.png" height="65%" width="65%" alt="Azur Honeypot VM"/>
 </p>
 <br />
 <br />
 
- <h2>Added an inbound rule to expose the VM to the internet</h2>
+<ins><B>Added an inbound rule to expose the VM to the internet</ins></B>
 
  
 <p align="center">
@@ -41,7 +45,7 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 <br />
 
 
- <h2>Connected to the Azure Log Analytics Workspace </h2>
+<ins><B>Connected to the Azure Log Analytics Workspace </ins></B>
  
 <p align="center">
 <img src="https://imgur.com/8EM3IGb.png" height="65%" width="65%" alt="Azure log analytics workspace"/>
@@ -49,7 +53,7 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 <br />
 <br />
 
-<h2>Collecting windows security event through Microsoft Defender</h2>
+<ins><B>Collecting windows security event through Microsoft Defender</ins></B>
 
 <p align="center">
 <img src="https://imgur.com/N7BmbhF.png" height="65%" width="65%" alt="Microsoft Defender"/>
@@ -57,7 +61,7 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 <br />
 <br />
 
-<h2>Connecting to Microsoft Sentinel-SIEM to log analytic workspace </h2>
+<ins><B>Connecting to Microsoft Sentinel-SIEM to log analytic workspace </ins></B>
 
 <p align="center">
 <img src="https://imgur.com/eQV2DiS.png" height="65%" width="65%" alt="SIEM"/>
@@ -65,16 +69,14 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 <br />
 <br />
 
-<h2>Powershell script running and showing live attacks data </h2>
-
+<ins><B>Powershell script showing live attack data</ins></B>
 <p align="center">
 <img src="https://imgur.com/0sM0sDH.png" height="65%" width="65%" alt="Powershell script"/>
 </p>
 <br />
 <br />
 
-
-<h2>KQL query to extract log data</h2>
+<ins><B>KQL query to extract log data</ins></B>
 
 <p align="center">
 <img src="https://imgur.com/zC0OwUN.png" height="65%" width="65%" alt="KQL query"/>
