@@ -23,16 +23,36 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 <p align="center">
 <img src="https://imgur.com/45F8m7e.png" height="65%" width="65%" alt="Azur Honeypot VM"/>
 </p>
+<br />
+<br />
 
  <h2>Added an inbound rule to expose the VM to the internet</h2>
+
  
 <p align="center">
 <img src="https://imgur.com/rprByJj.png" height="65%" width="65%" alt="Inbound Rule"/>
 </p>
 
+
 <p align="center">
 <img src="https://imgur.com/EBDfdZy.png" height="65%" width="65%" alt="Inbound Rule"/>
 </p>
+<br />
+<br />
 
 
+ <h2>Connected to Log Analytics Workspace </h2>
+ 
+<p align="center">
+<img src="https://imgur.com/8EM3IGb.png" height="65%" width="65%" alt="Inbound Rule"/>
+</p>
+<br />
+<br />
 
+<h2>Turned on data collection for all event through Microsoft Defender</h2>
+
+<p align="center">
+<img src="https://imgur.com/N7BmbhF.png" height="65%" width="65%" alt="Inbound Rule"/>
+</p>
+<br />
+<br />
