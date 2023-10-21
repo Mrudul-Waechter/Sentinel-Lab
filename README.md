@@ -12,3 +12,9 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 <img src="https://imgur.com/ABSjI51.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
 </p>
 <h2>Languages Used</h2>
+
+- <b>PowerShell:</b> Extract RDP failed logon logs from Windows Event Viewer 
+
+<h2>Utilities Used</h2>
+
+- <b>ipgeolocation.io:</b> [IP Address to Geolocation API]
