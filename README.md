@@ -19,7 +19,7 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 
 - <b>ipgeolocation.io:</b> [IP Address to Geolocation API](https://ipgeolocation.io/)
 
-- <h2>Created honeypot VM using Azure</h2>
+<h2>Created honeypot VM using Azure</h2>
 <p align="center">
 <img src="https://imgur.com/45F8m7e.png" height="65%" width="65%" alt="Azur Honeypot VM"/>
 </p>
