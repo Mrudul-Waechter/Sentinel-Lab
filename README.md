@@ -17,4 +17,4 @@ In this project, I've configured Azure Sentinel (SIEM) and linked it to a live v
 
 <h2>Utilities Used</h2>
 
-- <b>ipgeolocation.io:</b> [IP Address to Geolocation API]
+- <b>ipgeolocation.io:</b> [IP Address to Geolocation API](https://github.com/Mrudul-Waechter/Sentinel-Lab/blob/main/WindowsSecurityLogExporter.ps1)
